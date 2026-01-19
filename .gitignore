@@ -10,3 +10,4 @@ push_output.txt
 Industry Reports/
 Job Descriptions/
 Training Curricula/
+.streamlit/secrets.toml
