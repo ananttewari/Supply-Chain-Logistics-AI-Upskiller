@@ -40,7 +40,7 @@ An intelligent, AI-powered educational platform designed to upskill logistics pr
 *   **Curated Resources:** Provides direct links to high-quality courses and certifications.
 
 ### 8. 📝 Skill Assessment Quiz
-*   **Dynamic Quizzes:** Generates 5 unique multiple-choice questions on the fly to test your knowledge.
+*   **AI-Focused Questions:** Generates 5 unique multiple-choice questions specifically testing **AI applications and digital transformation skills** relevant to your role.
 *   **Instant Feedback:** Scores your performance and provides detailed explanations.
 
 ---

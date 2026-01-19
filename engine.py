@@ -147,7 +147,10 @@ def generate_quiz_questions(role, level):
     """
     llm = get_llm()
     prompt = f"""
-    Generate 5 multiple-choice questions to test the AI literacy and Logistics knowledge for a {role} at level {level}/5.
+    Generate 5 multiple-choice questions specifically about **AI applications, tools, and digital transformation skills** for a {role} at AI literacy level {level}/5.
+    
+    The questions should NOT be about general logistics. They MUST test how AI is applied in that role (e.g., "Which AI algorithm helps in route optimization?", "How does Computer Vision aid quality control?").
+
     Return the result STRICTLY as a JSON array of objects. 
     Each object must have: 
     - "question" (string)
